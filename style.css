@@ -121,7 +121,7 @@ body{
     background-color: #bb590a;
 }
 .card{
-    box-shadow: 1px 1px 20px 7px black;
+    box-shadow: 1px 1px 9px 0px black;
     width: 300px;
     margin-right: 31px;
     background-color: #fff;
@@ -363,16 +363,16 @@ body{
     width: 61px;
     background-color: #fff;
     top: 112px;
-    left: 819px;
+    left: 749px;
 }
 .allMenu-tittle::before{
     position: absolute;
     content: '';
-    height: 2px;
+    height: 3px;
     width: 61px;
     background-color: #fff;
     top: 112px;
-    left: 477px;
+    left: 377px;
 }
 
 .allMenu-items{
@@ -444,7 +444,7 @@ body{
 .burrito-order{
     position: absolute;
     top: 194px;
-    left: 58px;
+    left: 48px;
 }
 .burrito-order input {
     background-color: #FF7400;
@@ -458,7 +458,7 @@ body{
 .fix-enchilado{
     position: absolute;
     top:211px;
-    left: 58px;
+    left: 40px;
 }
 .burrito-order input:hover{
     background-color: #bb590a;
@@ -468,7 +468,7 @@ body{
     color: #fff;
     width: 150px;
     text-decoration: none;
-    padding: 10px 18px;
+    padding: 10px 0px;
     font-weight: 700;
     transition: all 0.2s linear;
     margin-bottom: 6px;
